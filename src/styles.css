@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 3rem;
+}
+
+input {
+  padding: 1rem;
+  min-width: 80%;
+}
+
+h3 {
+  margin-top: 2rem;
+}
+
+span {
+  padding: 2rem;
+  line-height: 250%;
+  font-size: 2rem;
+  cursor: pointer;
+}
